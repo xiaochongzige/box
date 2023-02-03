@@ -453,7 +453,7 @@
   },
   {
     "key": "csp_AliPS",
-    "name": "☆★★【喵盘-仅搜索】★★☆",
+    "name": "☆★★【喵盘-仅搜】★★☆",
     "type": 3,
     "api": "csp_PanSou",
     "searchable": 1,
@@ -464,7 +464,7 @@
   },
   {
     "key": "csp_Yisou",
-    "name": "☆★★【易搜-仅搜索】★★☆",
+    "name": "☆★★【易搜-仅搜】★★☆",
     "type": 3,
     "api": "csp_Yisou",
     "searchable": 1,
@@ -475,7 +475,7 @@
   },
   {
     "key": "push_agent",
-    "name": "☆★★【推送-仅搜索】★★☆",
+    "name": "☆★★【推送-仅搜】★★☆",
     "type": 3,
     "api": "csp_PushAgent",
     "searchable": 0,
@@ -486,7 +486,7 @@
   },
   {
     "key": "csp_Alist3",
-    "name": "☆★★【小雅-仅搜索】★★☆",
+    "name": "☆★★【小雅-仅搜】★★☆",
     "type": 3,
     "api": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JAR/网盘jar/小雅搜索.js",
     "searchable": 1,
