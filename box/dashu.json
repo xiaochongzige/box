@@ -429,7 +429,7 @@
     },
     {
       "key": "Upyunso",
-      "name": "☆★★【up搜-仅搜索】★★☆",
+      "name": "☆★★【up搜-仅搜】★★☆",
       "type": 3,
       "api": "csp_Upyunso",
       "playerType": 1,
@@ -441,7 +441,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "☆★★【找资源-搜索】★★☆",
+      "name": "☆★★【找资源-搜】★★☆",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
