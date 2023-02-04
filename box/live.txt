@@ -308,7 +308,6 @@ CCTV2,https://live.v1.mk/aishang/cctv2hd
 CCTV3,https://live.v1.mk/aishang/cctv3hd
 CCTV4,https://live.v1.mk/aishang/cctv4hd
 CCTV5,https://live.v1.mk/aishang/cctv5hd
-CCTV5+,https://live.v1.mk/aishang/cctv5+hd
 CCTV6,https://live.v1.mk/aishang/cctv6hd
 CCTV7,https://live.v1.mk/aishang/cctv7hd
 CCTV8,https://live.v1.mk/aishang/cctv8hd
