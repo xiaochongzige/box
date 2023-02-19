@@ -604,8 +604,7 @@ CCTV17,http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 60.枪战影片,http://epg.112114.xyz/douyu/10240510
 61.国外电影,http://epg.112114.xyz/douyu/9683979
 
-
-🚎→【动物世界台】,genre
+🚎→【动物世界台】,#genre#
 动物世界,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
 一片住着熊的森林1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2ac6789acc644b55a4df03445561c56b/1200.m3u8
 一片住着熊的森林2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/969d426187eb46e19fc6839a435fbf0f/1200.m3u8
