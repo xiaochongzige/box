@@ -4,7 +4,7 @@
 3,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
 4,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
 5,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
-5+,https://live.v1.mk/api/bestv.php?id=cctv5+hd8m/8000000
+5+,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 6,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
 7,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
 8,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
