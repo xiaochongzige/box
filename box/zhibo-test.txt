@@ -4,7 +4,6 @@
 3,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
 4,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
 5,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
-5+,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 6,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
 7,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
 8,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
@@ -17,6 +16,7 @@
 15,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
 16,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
 17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
+5+,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 
 【CCTV】,#genre#
 CCTV-1 高清,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
