@@ -1,7 +1,7 @@
 ﻿【test】,#genre#
 1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 2,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
-3,https://live.v1.mk/api/bestv.php?id=cctv3hd8m/8000000
+3,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
 4,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
 5,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
 5+,https://live.v1.mk/api/bestv.php?id=cctv5+hd8m/8000000
