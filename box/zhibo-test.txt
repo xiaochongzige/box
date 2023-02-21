@@ -1,5 +1,5 @@
 ﻿【CCTV】,#genre#
-66，https://bp-caster.bestv.com.cn/89/3/video.m3u8
+66,https://bp-caster.bestv.com.cn/89/3/video.m3u8
 CCTV-1 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 CCTV-1 高清,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 CCTV-1 高清,http://39.135.134.67/PLTV/88888888/224/3221225783/1.m3u8
