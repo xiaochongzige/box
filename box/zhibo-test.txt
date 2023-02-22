@@ -169,7 +169,7 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 芈月传,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.xs
 新三国,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.xs
 闯关东,http://epg.112114.xyz/douyu/8787737
-闯关东,http://hlslive.video.ptqy.gitv.tv/tslive/c54_lb_138_600_t10/c54_lb_138_600_t10.m3u8
+闯关东,http://hlslive.video.ptqy.gitv.tv/tslive/c54_lb_138_600_t10/c54_lb_138_600_t10.m3u8?pv=0.2&qd_tvid=5330893411960623&qd_vipres=0&qd_scc=66257fb508a9174d243b64647e90dd47&qd_sc=ac0af319503d94dec61f09194683a7b1&qd_did=tv_3cf591272a2d_1677042061781&qd_ip=7704b3a0&qd_vip=0&qd_uid=&qd_p=7704b3a0&qd_src=04022001010000000000&qd_tm=1677042060877&qd_k=61ffceb6176254738210d7caab8e8c64
 鬼吹灯系列,http://epg.112114.xyz/douyu/9292503
 康熙微服私访,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.xs
 神探狄仁杰,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.xs
