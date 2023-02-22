@@ -169,6 +169,7 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 芈月传,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.xs
 新三国,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.xs
 闯关东,http://epg.112114.xyz/douyu/8787737
+闯关东,http://hlslive.video.ptqy.gitv.tv/tslive/c54_lb_138_600_t10/c54_lb_138_600_t10.m3u8
 鬼吹灯系列,http://epg.112114.xyz/douyu/9292503
 康熙微服私访,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.xs
 神探狄仁杰,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.xs
