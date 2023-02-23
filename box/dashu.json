@@ -108,7 +108,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E6%96%B0%E8%A7%86%E8%A7%89.jar"
+      "jar": "https://gitea.com/xiaochongge/box/raw/branch/master/jar/%E6%96%B0%E8%A7%86%E8%A7%89.jar"
     },
     {
       "key": "csp_xBPQ_爱看影视",
@@ -118,7 +118,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/爱看.json"
+      "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/%E7%88%B1%E7%9C%8B.json"
     },
     {
       "key": "Lgyy",
@@ -129,7 +129,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "ext": "b2e573ff040fcd54b50475660ee1a7d1",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%93%9D%E5%85%89.jar"
+      "jar": "https://gitea.com/xiaochongge/box/raw/branch/master/jar/%E8%93%9D%E5%85%89.jar"
     },
     {
       "key": "csp_Bttoo",
@@ -149,14 +149,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "110c922de7d69804467fb83d3bb664b5",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%9B%BE%E5%9B%BE.jar"
+      "jar": "https://gitea.com/xiaochongge/box/raw/branch/master/jar/%E5%9B%BE%E5%9B%BE.jar"
     },
     {
       "key" : "drpy_js_348电影",
       "name" : "☆★★【348-电影】★★☆",
       "type" : 3,
-      "api" : "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/js依赖/drpy.min.js",
-      "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JAR/推荐包jar/348电影网.js"
+      "api" : "https://gitea.com/xiaochongge/box/raw/branch/master/yilai/drpy.min.js",
+      "ext" : "https://gitea.com/xiaochongge/box/raw/branch/master/jar/348%E7%94%B5%E5%BD%B1%E7%BD%91.js"
     },
     {
       "key": "csp_Kuaikan",
@@ -175,8 +175,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/555.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/555%E5%BD%B1%E8%A7%86.jar"
+      "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/555.json",
+      "jar": "https://gitea.com/xiaochongge/box/raw/branch/master/jar/555%E5%BD%B1%E8%A7%86.jar"
     },
     {
       "key":"XBPQ_fant",
@@ -186,8 +186,8 @@
       "filterable":1,
       "quickSearch":1,
       "searchable":1,
-      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/饭团.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E9%A5%AD%E5%9B%A2%E5%BD%B1%E8%A7%86.jar"
+      "ext":"https://gitea.com/xiaochongge/box/raw/branch/master/json/%E9%A5%AD%E5%9B%A2.json",
+      "jar": "https://gitea.com/xiaochongge/box/raw/branch/master/jar/%E9%A5%AD%E5%9B%A2%E5%BD%B1%E8%A7%86.jar"
     },
     {
       "key": "csp_Cokemv",
@@ -198,7 +198,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/cokemv%E5%BD%B1%E8%A7%86.jar"
+      "jar": "https://gitea.com/xiaochongge/box/raw/branch/master/jar/cokemv%E5%BD%B1%E8%A7%86.jar"
 
     },
     {
@@ -211,7 +211,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "ext": "https://api-tx.shumaxc.xyz",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%9C%A8%E7%BA%BF%E7%9B%B4%E6%92%AD.jar"
+      "jar": "https://gitea.com/xiaochongge/box/raw/branch/master/jar/%E5%9C%A8%E7%BA%BF%E7%9B%B4%E6%92%AD.jar"
     },
     {
       "key": "xb",
@@ -230,7 +230,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/vo fl ix.json"
+      "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/vo-fl-ix.json"
     },
     {
       "key": "csp_xbb_达达龟",
@@ -250,8 +250,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/真不卡.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E7%9C%9F%E4%B8%8D%E5%8D%A1.jar"
+      "ext":"https://gitea.com/xiaochongge/box/raw/branch/master/json/%E7%9C%9F%E4%B8%8D%E5%8D%A1.json",
+      "jar": "https://gitea.com/xiaochongge/box/raw/branch/master/jar/%E7%9C%9F%E4%B8%8D%E5%8D%A1.jar"
     },
      {
       "key": "csp_xBPQ_诺讯影视",
@@ -261,7 +261,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/诺讯影视.json"
+      "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/%E8%AF%BA%E8%AE%AF%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "NoSearch_Bdys_spider",
@@ -271,14 +271,14 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E5%93%94%E6%BB%B4%E5%BD%B1%E8%A7%86.jar"
+      "jar": "https://gitea.com/xiaochongge/box/raw/branch/master/jar/%E5%93%94%E6%BB%B4%E5%BD%B1%E8%A7%86.jar"
     },
     {
       "key": "drpy_js_独播库",
       "name": "️☆★★【独播库XB】★★☆",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JAR/XB包jar/独播库.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/独播库.js"
+      "api": "https://gitea.com/xiaochongge/box/raw/branch/master/json/%E7%8B%AC%E6%92%AD%E5%BA%93.min.js",
+      "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/%E7%8B%AC%E6%92%AD%E5%BA%93.js"
     },
     {
       "key": "kq",
@@ -297,7 +297,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E6%8E%A8%E8%8D%90%E5%8C%85.jar"
+      "jar": "https://gitea.com/xiaochongge/box/raw/branch/master/jar/%E6%8E%A8%E8%8D%90%E5%8C%85.jar"
     },
     {
       "key": "csp_Dm84",
@@ -316,14 +316,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/动漫包/去看动漫.json"
+      "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/%E5%8E%BB%E7%9C%8B%E5%8A%A8%E6%BC%AB.json"
     },
     {
       "key": "drpy_js_AGE动漫",
       "name": "☆★★【AGE动漫】★★☆",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JAR/动漫包jar/age动漫.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/动漫包/AGE动漫 (1).js"
+      "api": "https://gitea.com/xiaochongge/box/raw/branch/master/json/AGE%E5%8A%A8%E6%BC%AB%20.js",
+      "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/AGE%E5%8A%A8%E6%BC%AB%20.js"
     },
     {
       "key": "csp_biubiu_风车动漫",
@@ -333,7 +333,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/动漫包/风车动漫.json"
+      "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB.json"
     },
     {
       "key": "csp_Ying",
@@ -344,7 +344,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%8A%A8%E6%BC%AB%E5%8C%85jar/%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.txt"
+      "jar": "https://gitea.com/xiaochongge/box/raw/branch/master/json/%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.txt"
     },
     {
       "key": "8",
@@ -363,7 +363,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/虎牙直播.json"
+      "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.json"
     },
     {
       "key": "csp_biubiu_斗鱼",
@@ -373,7 +373,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/斗鱼直播.json"
+      "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.json"
     },
     {
       "key": "网易CC",
@@ -383,7 +383,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/直播包/网易cc.json"
+      "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/%E7%BD%91%E6%98%93cc.json"
     },
     {
       "key": "csp_XYQ_lu1",
@@ -393,8 +393,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/61542/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E6%BA%90.json?sign=JxgjHlxu8_IP1SK2AbvPOnG3dnOnOtvJE4V3TM0Vp1w%3D%3A0",
-      "jar": "http://52bsj.vip:81/api/v3/file/get/61543/%E6%9C%80%E9%AB%981080%E5%93%94%E5%93%A9%E5%BF%B5%E5%BD%B1%E7%A5%9E%E9%A9%ACzb.jar?sign=BTFlwsHLsd9ID93zVjRQSvbbhRn8g4_KtO-cGrGthRI%3D%3A0"
+      "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E6%BA%90.json",
+      "jar": "https://gitea.com/xiaochongge/box/raw/branch/master/jar/%E6%9C%80%E9%AB%981080%E5%93%94%E5%93%A9%E5%BF%B5%E5%BD%B1%E7%A5%9E%E9%A9%ACzb.zip"
     },
     {
       "key": "9",
@@ -413,8 +413,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yimuyimuszjzj/yimuy/raw/master/token.txt",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E5%B0%8F%E7%BA%B8%E6%9D%A11.jar"
+      "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/token.txt",
+      "jar": "https://gitea.com/xiaochongge/box/raw/branch/master/jar/%E5%B0%8F%E7%BA%B8%E6%9D%A11.jar"
     },
     {
       "key": "小纸条2",
@@ -424,8 +424,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yimuyimuszjzj/yimuy/raw/master/token.txt",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E5%B0%8F%E7%BA%B8%E6%9D%A12.jar"
+      "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/token.txt",
+      "jar": "https://gitea.com/xiaochongge/box/raw/branch/master/jar/%E5%B0%8F%E7%BA%B8%E6%9D%A12.jar"
     },
     {
       "key": "Upyunso",
@@ -436,8 +436,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/yimuyimuszjzj/yimuy/raw/master/token.txt",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/up%E2%98%81%EF%B8%8F.jar"
+      "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/token.txt",
+      "jar": "https://gitea.com/xiaochongge/box/raw/branch/master/jar/up%E6%90%9C.jar"
     },
     {
       "key": "Zhaozy",
@@ -447,8 +447,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/yimuyimuszjzj/yimuy/raw/master/token.txt",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E6%89%BE%E8%B5%84%E6%BA%90.jar"
+      "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/token.txt",
+      "jar": "https://gitea.com/xiaochongge/box/raw/branch/master/jar/%E6%89%BE%E8%B5%84%E6%BA%90.jar"
     
   },
   {
@@ -459,8 +459,8 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://gitee.com/yimuyimuszjzj/yimuy/raw/master/token.txt",
-    "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E5%96%B5%E7%9B%98%E6%90%9C.jar"
+    "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/token.txt",
+    "jar": "https://gitea.com/xiaochongge/box/raw/branch/master/jar/%E5%96%B5%E7%9B%98%E6%90%9C.jar"
   },
   {
     "key": "csp_Yisou",
@@ -470,8 +470,8 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://gitee.com/yimuyimuszjzj/yimuy/raw/master/token.txt",
-    "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E9%80%9A%E7%94%A8.jar"
+    "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/token.txt",
+    "jar": "https://gitea.com/xiaochongge/box/raw/branch/master/jar/%E9%80%9A%E7%94%A8.jar"
   },
   {
     "key": "push_agent",
@@ -481,18 +481,18 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0,
-    "ext": "https://gitee.com/yimuyimuszjzj/yimuy/raw/master/token.txt",
-    "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E9%80%9A%E7%94%A8.jar"
+    "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/token.txt",
+    "jar": "https://gitea.com/xiaochongge/box/raw/branch/master/jar/%E9%80%9A%E7%94%A8.jar"
   },
   {
     "key": "csp_Alist3",
     "name": "☆★★【小雅-仅搜】★★☆",
     "type": 3,
-    "api": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JAR/网盘jar/小雅搜索.js",
+    "api": "https://gitea.com/xiaochongge/box/raw/branch/master/json/%E5%B0%8F%E9%9B%85%E6%90%9C%E7%B4%A2.js",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/网盘包/小雅搜索.json"
+    "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/%E5%B0%8F%E9%9B%85%E6%90%9C%E7%B4%A2.json"
   },
   {
     "key": "10",
@@ -511,8 +511,8 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0,
-    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/短视频.json",
-    "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%A8%B1%E4%B9%90jar/%E8%81%9A%E7%9F%AD%E8%A7%86%E9%A2%91.jar"
+    "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/%E7%9F%AD%E8%A7%86%E9%A2%91.json",
+    "jar": "https://gitea.com/xiaochongge/box/raw/branch/master/jar/%E8%81%9A%E7%9F%AD%E8%A7%86%E9%A2%91.jar"
   },
   {
     "key": "csp_xpath_kuqimv",
@@ -522,7 +522,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0,
-    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/酷奇mv.json"
+    "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/%E9%85%B7%E5%A5%87mv.json"
   },
   {
     "key": "csp_Bili",
@@ -532,8 +532,8 @@
     "searchable": 1,
     "quickSearch": 0,
     "filterable": 0,
-    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/Bibi.json",
-    "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%A8%B1%E4%B9%90jar/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E9%80%9A%E7%94%A8.jar"
+    "ext": "https://gitea.com/xiaochongge/box/raw/branch/master/json/Bibi.json",
+    "jar": "https://gitea.com/xiaochongge/box/raw/branch/master/jar/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E9%80%9A%E7%94%A8.jar"
   }],
 "parses": [{
   "name": "解析聚合",
