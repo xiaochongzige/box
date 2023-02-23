@@ -169,7 +169,7 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 🚚→【虎牙电视剧】,#genre#
 强哥:你这瓜保熟么?,http://epg.112114.xyz/douyu/2726977
 闯关东,http://epg.112114.xyz/douyu/8787737
-闯关东,http://hlslive.video.ptqy.gitv.tv/tslive/c54_lb_138_600_t10/c54_lb_138_600_t10.m3u8?pv=0.2&qd_tvid=5330893411960623&qd_vipres=0&qd_scc=66257fb508a9174d243b64647e90dd47&qd_sc=ac0af319503d94dec61f09194683a7b1&qd_did=tv_3cf591272a2d_1677042061781&qd_ip=7704b3a0&qd_vip=0&qd_uid=&qd_p=7704b3a0&qd_src=04022001010000000000&qd_tm=1677042060877&qd_k=61ffceb6176254738210d7caab8e8c64
+朱亚文,http://hlslive.video.ptqy.gitv.tv/tslive/c54_lb_138_600_t10/c54_lb_138_600_t10.m3u8?pv=0.2&qd_tvid=5330893411960623&qd_vipres=0&qd_scc=66257fb508a9174d243b64647e90dd47&qd_sc=ac0af319503d94dec61f09194683a7b1&qd_did=tv_3cf591272a2d_1677042061781&qd_ip=7704b3a0&qd_vip=0&qd_uid=&qd_p=7704b3a0&qd_src=04022001010000000000&qd_tm=1677042060877&qd_k=61ffceb6176254738210d7caab8e8c64
 鬼吹灯系列,http://epg.112114.xyz/douyu/9292503
 另类鬼片,http://epg.112114.xyz/douyu/6906628
 另类鬼片,http://epg.112114.xyz/douyu/218859
