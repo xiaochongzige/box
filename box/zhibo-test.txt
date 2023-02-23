@@ -159,6 +159,7 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 另类鬼片,http://epg.112114.xyz/douyu/218859
 另类鬼片,http://epg.112114.xyz/douyu/8009547
 恐怖鬼故事,http://epg.112114.xyz/douyu/9682807
+恐怖鬼故事,http://epg.112114.xyz/douyu/8722254
 
 【影视解说】,#genre#
 麻将斗牌剧,http://epg.112114.xyz/douyu/9559158
