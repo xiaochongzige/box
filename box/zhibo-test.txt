@@ -145,6 +145,7 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 新三国,http://epg.112114.xyz/douyu/11178322
 新水浒,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.xs
 新水浒,http://epg.112114.xyz/douyu/3758762
+闯関東,http://epg.112114.xyz/douyu/8787737
 好先生,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.xs
 葛二蛋,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.xs
 一代枭雄,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1394565206-1394565206-5989611951909502976-2789253868-10057-A-0-1.xs
@@ -154,7 +155,6 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 神探狄仁杰,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.xs
 大秦之大秦赋,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.xs
 大秦之 裂 变,http://epg.112114.xyz/douyu/1584198
-朱亚文,http://epg.112114.xyz/douyu/8787737
 另类鬼片,http://epg.112114.xyz/douyu/6906628
 另类鬼片,http://epg.112114.xyz/douyu/218859
 另类鬼片,http://epg.112114.xyz/douyu/8009547
