@@ -161,13 +161,13 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 恐怖鬼故事,http://diyp.112114.xyz/douyu/9682807
 
 【影视解说】,#genre#
-麻将斗牌剧,http://epg.112114.xyz/douyu/9559158
-牛叔超强解说,http://epg.112114.xyz/douyu/2758565
-迷小雅爽剧,http://epg.112114.xyz/douyu/9639225
-小片片说片,http://epg.112114.xyz/douyu/4258555
-老秦说秦,http://epg.112114.xyz/douyu/9650131
-本山大叔,http://epg.112114.xyz/douyu/9817716
-1900影剧室,http://epg.112114.xyz/douyu/7796193
+麻将斗牌剧,http://diyp.112114.xyz/douyu/9559158
+牛叔超强解说,http://diyp.112114.xyz/douyu/2758565
+迷小雅爽剧,http://diyp.112114.xyz/douyu/9639225
+小片片说片,http://diyp.112114.xyz/douyu/4258555
+老秦说秦,http://diyp.112114.xyz/douyu/9650131
+本山大叔,http://diyp.112114.xyz/douyu/9817716
+1900影剧室,http://diyp.112114.xyz/douyu/7796193
 
 【英☆叔】#genre#
 林正英-第01部,https://50069.njc.svp.tencent-cloud.com/0b78uyaaoaaahqapjfqfwfqvbjwda6taabya.f10002.mp4
