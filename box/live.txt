@@ -1,4 +1,5 @@
 🚌→【CCTV高清】,#genre#
+虎牙测试,http://epg.112114.xyz/huya/11342412
 666,https://m.huya.com/11342412@@filterStr=.flv@@#@kdsvod://http://v.91kds.com/b7/huya.m3u8?id=11342412&pwd=jsdecode
 CCTV-1 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 CCTV-1 高清,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
