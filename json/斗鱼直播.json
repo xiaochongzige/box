@@ -70,7 +70,7 @@
     //设置成直接播放后，后面3个参数请注意该留空的请务必留空。
     "force_play": "1",
     //直接播放链接补前缀
-    "play_prefix": "http://m.douyu.com/",
+    "play_prefix": "http://epg.112114.xyz/douyu/",
     //直接播放链接补后缀，设置为#isVideo=true#可强制识别为视频链接
     "play_suffix": "",
     //直接播放链接设置请求头，只对直链视频有效，每一组用#分开
@@ -81,7 +81,7 @@
     //如果网页源码里没有这种请设置为0
     "Anal_MacPlayer":"0",
     //是否开启手动嗅探，只对网页嗅探有效，0否，1是
-    "ManualSniffer":"1",
+    "ManualSniffer":"0",
     //手动嗅探视频链接关键字，每个用#隔开
     "VideoFormat":".mp4#.m3u8#.flv",
     //手动嗅探视频链接过滤关键词,每个用#隔开
