@@ -171,12 +171,19 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 恐怖鬼故事,http://diyp.112114.xyz/douyu/9682807
 
 🚒→【影视剧解说】,#genre#
+麻将斗牌剧,http://akm-tct.douyucdn.cn/live/9559158rvmpMWDSD.m3u8?uuid=
 麻将斗牌剧,http://diyp.112114.xyz/douyu/9559158
+牛叔超强解说,http://akm-tct.douyucdn.cn/live/2758565rVIROeQiW.m3u8?uuid=
 牛叔超强解说,http://diyp.112114.xyz/douyu/2758565
+迷小雅爽剧,http://akm-tct.douyucdn.cn/live/9639225rDOJb6nhG.m3u8?uuid=
 迷小雅爽剧,http://diyp.112114.xyz/douyu/9639225
+小片片说片,http://akm-tct.douyucdn.cn/live/4258555r3isvDdlq.m3u8?uuid=
 小片片说片,http://diyp.112114.xyz/douyu/4258555
+老秦说秦,http://akm-tct.douyucdn.cn/live/9650131r0hIG6kNH.m3u8?uuid=
 老秦说秦,http://diyp.112114.xyz/douyu/9650131
+本山大叔,http://akm-tct.douyucdn.cn/live/9817716r7623jdwj.m3u8?uuid=
 本山大叔,http://diyp.112114.xyz/douyu/9817716
+1900影剧室,http://akm-tct.douyucdn.cn/live/7796193r8vYIntkv.m3u8?uuid=
 1900影剧室,http://diyp.112114.xyz/douyu/7796193
 
 🚒→【林正英专辑】,#genre#
