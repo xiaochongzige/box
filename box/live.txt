@@ -152,19 +152,22 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 新三国,http://diyp.112114.xyz/douyu/11178322
 新水浒,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.xs
 闯关东,http://diyp.112114.xyz/douyu/8787737
+闯关东,http://akm-tct.douyucdn.cn/live/8787737rvopZ7bpZ.m3u8?uuid=
 新水浒,http://diyp.112114.xyz/douyu/3758762
+新水浒,http://akm-tct.douyucdn.cn/live/3758762rpgxvaOpy.m3u8?uuid=
 好先生,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.xs
 葛二蛋,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.xs
 一代枭雄,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1394565206-1394565206-5989611951909502976-2789253868-10057-A-0-1.xs
 青岛往事,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1394575560-1394575560-5989656422000885760-2789274576-10057-A-0-1.xs
+鬼吹灯系列,http://akm-tct.douyucdn.cn/live/9292503r6XLE4nEX.m3u8?uuid=
 鬼吹灯系列,http://diyp.112114.xyz/douyu/9292503
 康熙微服私访,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.xs
 神探狄仁杰,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.xs
 大秦之大秦赋,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.xs
 大秦之 裂 变,http://diyp.112114.xyz/douyu/1584198
+另类鬼片,http://akm-tct.douyucdn.cn/live/6906628rgKYw3XQF.m3u8?uuid=
 另类鬼片,http://diyp.112114.xyz/douyu/6906628
-另类鬼片,http://diyp.112114.xyz/douyu/218859
-另类鬼片,http://diyp.112114.xyz/douyu/8009547
+恐怖鬼故事,http://akm-tct.douyucdn.cn/live/9682807rrWTIIvWC.m3u8?uuid=
 恐怖鬼故事,http://diyp.112114.xyz/douyu/9682807
 
 🚒→【影视剧解说】,#genre#
