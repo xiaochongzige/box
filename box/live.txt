@@ -48,6 +48,7 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 虎牙-林正英,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
 虎牙-英叔多源,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1199615772581-1199615772581-5668914436203610112-2399231668618-10057-A-0-1.xs
 虎牙-英叔多源,http://epg.112114.xyz/douyu/2935323
+虎牙-英叔多源,http://akm-tct.douyucdn.cn/live/2935323rx2HRbmDh.m3u8?uuid=
 虎牙-英叔多源,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.xs
 虎牙-沈腾,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
 虎牙-沈腾,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1199625376652-1199625376652-5710163607057072128-2399250876760-10057-A-0-1.xs
@@ -132,6 +133,7 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 虎牙-喜剧合家欢,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1420969427-1420969427-6103017217580859392-2847687524-10057-A-0-1.xs
 虎牙-逗乐小品,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.xs
 |车展|全天|,http://epg.112114.xyz/douyu/9805480
+|车展|全天|,http://akm-tct.douyucdn.cn/live/9805480rl9q5Wgil.m3u8?uuid=
 虎牙-杂剧,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777038134-10057-A-0-1.xs
 虎 牙|笑傲帮,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.xs
 
@@ -144,6 +146,7 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 
 🚚→【虎牙电视剧】,#genre#
 原版四大名著,http://diyp.112114.xyz/douyu/1046540
+原版四大名著,http://akm-tct.douyucdn.cn/live/1046540r7WBGRJrs.m3u8?uuid=
 强哥:这瓜保熟么,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.xs
 强哥:这瓜保熟么,http://diyp.112114.xyz/douyu/2726977
 芈月传,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.xs
@@ -164,6 +167,7 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 康熙微服私访,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.xs
 神探狄仁杰,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.xs
 大秦之大秦赋,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.xs
+大秦之 裂 变,http://akm-tct.douyucdn.cn/live/1584198r4D2vhwJg.m3u8?uuid=
 大秦之 裂 变,http://diyp.112114.xyz/douyu/1584198
 另类鬼片,http://akm-tct.douyucdn.cn/live/6906628rgKYw3XQF.m3u8?uuid=
 另类鬼片,http://diyp.112114.xyz/douyu/6906628
@@ -237,68 +241,68 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 🚒→【斗鱼直播台】,#genre#
 贝爷MAX厅,http://tc-tct1.douyucdn.cn/live/4332rDBJ1rfMqR4P.m3u8?uuid=
 贝爷MAX厅,http://epg.112114.xyz/douyu/4332
-漫威影片,http://diyp.112114.xyz/douyu/6140589
-刘德华电影1,http://epg.112114.eu.org/douyu/2516864
+漫威影片,http://akm-tct.douyucdn.cn/live/6140589rXut81F8a.m3u8?uuid=
+刘德华电影1,http://akm-tct.douyucdn.cn/live/2516864rfCm5vrkl.m3u8?uuid=
 刘德华电影1,http://diyp.112114.xyz/douyu/2516864
-刘德华电影2,http://diyp.112114.xyz/douyu/8985415
+刘德华电影2,http://akm-tct.douyucdn.cn/live/8985415rZqOccb7x.m3u8?uuid=
 喜剧经典,http://akm-tct.douyucdn.cn/live/9650887rQO6aKVca.m3u8?uuid=
 喜剧经典,http://diyp.112114.xyz/douyu/9650887
-豆瓣高分,http://diyp.112114.xyz/douyu/8770422
+豆瓣高分,http://akm-tct.douyucdn.cn/live/8770422rP205D3AU.m3u8?uuid=
 林正英电影1,http://diyp.112114.xyz/douyu/218859
-林正英电影2,http://diyp.112114.xyz/douyu/7356023
-港金电影,http://diyp.112114.xyz/douyu/747764
-贝爷影厅1,http://diyp.112114.xyz/douyu/252802
-贝爷影厅2,http://diyp.112114.xyz/douyu/36337
-霍格影片,http://diyp.112114.xyz/douyu/8814650
-可乐电影,http://diyp.112114.xyz/douyu/20415
-冰冰经典电影,http://diyp.112114.xyz/douyu/74374
-奶虫恐怖电影,http://diyp.112114.xyz/douyu/263824
-恐怖经典,http://diyp.112114.xyz/douyu/1165374
-变种人电影,http://diyp.112114.xyz/douyu/9651304
-华语电影,http://diyp.112114.xyz/douyu/3928
-怀旧90,http://diyp.112114.xyz/douyu/9275635
-国产影片,http://diyp.112114.xyz/douyu/5423
-麓山迷踪,http://diyp.112114.xyz/douyu/4505431
-惊悚恐怖,http://diyp.112114.xyz/douyu/2935323
-斗鱼電影1,http://diyp.112114.xyz/douyu/3637726
-斗鱼電影2,http://diyp.112114.xyz/douyu/323876
-斗鱼電影4,http://diyp.112114.xyz/douyu/431460
-斗鱼電影5,http://diyp.112114.xyz/douyu/4246519
-斗鱼電影7,http://diyp.112114.xyz/douyu/6776615
-斗鱼電影8,http://diyp.112114.xyz/douyu/1979257
-斗鱼電影10,http://diyp.112114.xyz/douyu/8413092
-斗鱼電影11,http://diyp.112114.xyz/douyu/248753
-斗鱼電影12,http://diyp.112114.xyz/douyu/2987100
-斗鱼電影13,http://diyp.112114.xyz/douyu/2758565
-斗鱼電影15,http://diyp.112114.xyz/douyu/3870925
+林正英电影2,http://akm-tct.douyucdn.cn/live/7356023r78QK0GO7.m3u8?uuid=
+港金电影,http://akm-tct.douyucdn.cn/live/747764rSurv4YkpQ.m3u8?uuid=
+贝爷影厅1,http://akm-tct.douyucdn.cn/live/252802rhOZGvHgL2.m3u8?uuid=
+贝爷影厅2,http://akm-tct.douyucdn.cn/live/36337rDpDYZlSAU9.m3u8?uuid=
+霍格影片,http://akm-tct.douyucdn.cn/live/8814650rjiD72wey.m3u8?uuid=
+可乐电影,http://akm-tct.douyucdn.cn/live/20415rnWbjg6Ex1K.m3u8?uuid=
+冰冰经典电影,http://akm-tct.douyucdn.cn/live/74374rPCZzw5FYyT.m3u8?uuid=
+奶虫恐怖电影,http://akm-tct.douyucdn.cn/live/263824rmYrNxlGQD.m3u8?uuid=
+恐怖经典,http://akm-tct.douyucdn.cn/live/1165374rB9FWXhob.m3u8?uuid=
+变种人电影,http://akm-tct.douyucdn.cn/live/9651304rLO05ucG0.m3u8?uuid=
+华语电影,http://akm-tct.douyucdn.cn/live/3928r9p0BHMDG.m3u8?uuid=
+怀旧90,http://akm-tct.douyucdn.cn/live/9275635r4Qsski7M.m3u8?uuid=
+国产影片,http://akm-tct.douyucdn.cn/live/5423rR7MKZktjsHs.m3u8?uuid=
+麓山迷踪,http://akm-tct.douyucdn.cn/live/4505431r6bIjWb9M.m3u8?uuid=
+惊悚恐怖,http://akm-tct.douyucdn.cn/live/2935323rx2HRbmDh.m3u8?uuid=
+斗鱼電影1,http://akm-tct.douyucdn.cn/live/3637726rQLDdfto7.m3u8?uuid=
+斗鱼電影2,http://akm-tct.douyucdn.cn/live/323876rHkdAgVl2T.m3u8?uuid=
+斗鱼電影4,http://akm-tct.douyucdn.cn/live/431460rJhUsuho3P.m3u8?uuid=
+斗鱼電影5,http://akm-tct.douyucdn.cn/live/4246519r1WmgukcP.m3u8?uuid=
+斗鱼電影7,http://akm-tct.douyucdn.cn/live/6776615rgMqLJcr1.m3u8?uuid=
+斗鱼電影8,http://akm-tct.douyucdn.cn/live/1979257rHIIfmw3k.m3u8?uuid=
+斗鱼電影10,http://akm-tct.douyucdn.cn/live/8413092rV5Xv0ZuI.m3u8?uuid=
+斗鱼電影11,http://akm-tct.douyucdn.cn/live/248753rPSTZxCQGS.m3u8?uuid=
+斗鱼電影12,http://akm-tct.douyucdn.cn/live/2987100rwU4I0jGj.m3u8?uuid=
+斗鱼電影13,http://akm-tct.douyucdn.cn/live/2758565rVIROeQiW.m3u8?uuid=
+斗鱼電影15,http://akm-tct.douyucdn.cn/live/3870925rC2yg75sS.m3u8?uuid=
 斗鱼電影16,http://diyp.112114.xyz/douyu/4396972
-斗鱼電影17,http://diyp.112114.xyz/douyu/4549169
+斗鱼電影17,http://akm-tct.douyucdn.cn/live/4549169rYnH7POVF.m3u8?uuid=
 斗鱼電影18,http://diyp.112114.xyz/douyu/8867878
-斗鱼電影19,http://diyp.112114.xyz/douyu/4290711
-斗鱼電影20,http://diyp.112114.xyz/douyu/6566671
-斗鱼電影21,http://diyp.112114.xyz/douyu/8475821
-斗鱼電影23,http://diyp.112114.xyz/douyu/2793084
-斗鱼電影24,http://diyp.112114.xyz/douyu/5067952
-斗鱼電影26,http://diyp.112114.xyz/douyu/413573
-斗鱼電影27,http://diyp.112114.xyz/douyu/6725858
-斗鱼電影28,http://diyp.112114.xyz/douyu/7476264
-斗鱼電影30,http://diyp.112114.xyz/douyu/7623292
-斗鱼電影31,http://diyp.112114.xyz/douyu/5033502
-斗鱼電影33,http://diyp.112114.xyz/douyu/8799435
-斗鱼電影34,http://diyp.112114.xyz/douyu/4258555
-斗鱼電影35,http://diyp.112114.xyz/douyu/8705754
-斗鱼電影37,http://diyp.112114.xyz/douyu/7528160
+斗鱼電影19,http://akm-tct.douyucdn.cn/live/4290711rTTBqCnSS.m3u8?uuid=
+斗鱼電影20,http://akm-tct.douyucdn.cn/live/6566671rC1jnYhfM.m3u8?uuid=
+斗鱼電影21,http://akm-tct.douyucdn.cn/live/8475821rccAftZ44.m3u8?uuid=
+斗鱼電影23,http://akm-tct.douyucdn.cn/live/2793084rOLMEddUu.m3u8?uuid=
+斗鱼電影24,http://akm-tct.douyucdn.cn/live/5067952rTCUkEWcB.m3u8?uuid=
+斗鱼電影26,http://akm-tct.douyucdn.cn/live/413573rPhoa9Wtau.m3u8?uuid=
+斗鱼電影27,http://akm-tct.douyucdn.cn/live/6725858rCJvO7Tb8.m3u8?uuid=
+斗鱼電影28,http://akm-tct.douyucdn.cn/live/7476264rhLXqXg4h.m3u8?uuid=
+斗鱼電影30,http://akm-tct.douyucdn.cn/live/7623292r5bcwwnUu.m3u8?uuid=
+斗鱼電影31,http://akm-tct.douyucdn.cn/live/5033502r1DnQtDRG.m3u8?uuid=
+斗鱼電影33,http://akm-tct.douyucdn.cn/live/8799435rrzkgerE2.m3u8?uuid=
+斗鱼電影34,http://akm-tct.douyucdn.cn/live/4258555r3isvDdlq.m3u8?uuid=
+斗鱼電影35,http://akm-tct.douyucdn.cn/live/8705754rLIUsVvu0.m3u8?uuid=
+斗鱼電影37,http://akm-tct.douyucdn.cn/live/7528160rDOtpXHYr.m3u8?uuid=
 斗鱼电影39,http://diyp.112114.xyz/douyu/6785471
-斗鱼电影39,http://diyp.112114.xyz/douyu/7537296
-斗鱼电影40,http://diyp.112114.xyz/douyu/8415464
-斗鱼电影41,http://diyp.112114.xyz/douyu/5522351
-斗鱼电影42,http://diyp.112114.xyz/douyu/562225
-斗鱼电影44,http://diyp.112114.xyz/douyu/8651489
-斗鱼电影46,http://diyp.112114.xyz/douyu/5354713
-斗鱼电影48,http://diyp.112114.xyz/douyu/8014467
-斗鱼电影50,http://diyp.112114.xyz/douyu/6582435
-斗鱼电影52,http://diyp.112114.xyz/douyu/8788687
-斗鱼电影53,http://diyp.112114.xyz/douyu/6861249
+斗鱼电影39,http://akm-tct.douyucdn.cn/live/7537296rcOgJFXmX.m3u8?uuid=
+斗鱼电影40,http://akm-tct.douyucdn.cn/live/8415464rr28wdU9m.m3u8?uuid=
+斗鱼电影41,http://akm-tct.douyucdn.cn/live/5522351rfDRipYot.m3u8?uuid=
+斗鱼电影42,http://akm-tct.douyucdn.cn/live/562225rdnLqwwAfN.m3u8?uuid=
+斗鱼电影44,http://akm-tct.douyucdn.cn/live/8651489rmaIUYv85.m3u8?uuid=
+斗鱼电影46,http://akm-tct.douyucdn.cn/live/5354713r6D37iqKF.m3u8?uuid=
+斗鱼电影48,http://akm-tct.douyucdn.cn/live/8014467r11NwLMgl.m3u8?uuid=
+斗鱼电影50,http://akm-tct.douyucdn.cn/live/6582435rP3VsGPxX.m3u8?uuid=
+斗鱼电影52,http://akm-tct.douyucdn.cn/live/8788687rhwpFSHEi.m3u8?uuid=
+斗鱼电影53,http://akm-tct.douyucdn.cn/live/6861249rvXrDXWP1.m3u8?uuid=
 
 🚑→【虎牙埋堆堆】#genre#
 埋堆堆1,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
