@@ -148,6 +148,7 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 强哥:这瓜保熟么,http://diyp.112114.xyz/douyu/2726977
 芈月传,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.xs
 新三国,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.xs
+新三国,http://hlstct.douyucdn2.cn/dyliveflv3/10906963rhyoK0a7.m3u8?txSecret=4efa03af4db9c767665af1938b0210e3&txTime=63fb7230&token=h5-douyu-0-10906963-5f305b14001d16aa3e6f6aacc545dd5d&did=44760fb9e7907ea16b8f0c5100041631&origin=tct&vhost=play3
 新三国,http://diyp.112114.xyz/douyu/10906963
 新三国,http://diyp.112114.xyz/douyu/11178322
 新水浒,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.xs
@@ -228,6 +229,7 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 贝爷MAX厅,http://epg.112114.xyz/douyu/4332
 贝爷MAX厅,http://hlstct.douyucdn2.cn/dyliveflv1/252802rhOZGvHgL2.m3u8?txSecret=ba068b0895d6916c0a6c5eb637716b3f&txTime=63fb70a9&token=h5-douyu-0-252802-c70909bb12301d065bf9a6e205149657&did=44760fb9e7907ea16b8f0c5100041631&origin=tct&vhost=play1
 漫威影片,http://diyp.112114.xyz/douyu/6140589
+漫威影片,http://hlstct.douyucdn2.cn/dyliveflv3/6140589rXut81F8a.m3u8?txSecret=2b520ce91ab5775ebd476109650dac84&txTime=63fb7155&token=h5-douyu-0-6140589-2de4fc148f1cd6b212fd98ee17bd7d52&did=44760fb9e7907ea16b8f0c5100041631&origin=tct&vhost=play3
 刘德华电影1,http://diyp.112114.xyz/douyu/2516864
 刘德华电影2,http://diyp.112114.xyz/douyu/8985415
 喜剧经典,http://diyp.112114.xyz/douyu/9650887
