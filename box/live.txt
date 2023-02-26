@@ -226,6 +226,7 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 
 🚒→【斗鱼直播台】,#genre#
 贝爷MAX厅,http://epg.112114.xyz/douyu/4332
+贝爷MAX厅,http://hlstct.douyucdn2.cn/dyliveflv1/252802rhOZGvHgL2.m3u8?txSecret=ba068b0895d6916c0a6c5eb637716b3f&txTime=63fb70a9&token=h5-douyu-0-252802-c70909bb12301d065bf9a6e205149657&did=44760fb9e7907ea16b8f0c5100041631&origin=tct&vhost=play1
 漫威影片,http://diyp.112114.xyz/douyu/6140589
 刘德华电影1,http://diyp.112114.xyz/douyu/2516864
 刘德华电影2,http://diyp.112114.xyz/douyu/8985415
