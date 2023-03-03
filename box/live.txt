@@ -240,7 +240,7 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 林正英-第46部,https://50069.njc.svp.tencent-cloud.com/0bf2gqaa4aaal4acmisq2zqfangdby2aadqa.f10002.mp4
 
 🚒→【斗鱼直播台】,#genre#
-贝爷MAX厅,http://tc-tct1.douyucdn.cn/live/4332rDBJ1rfMqR4P.m3u8?uuid=
+贝爷MAX厅,http://tc-tct1.douyucdn.cn/live/4332r3YdQas8FhBE.m3u8?uuid=
 贝爷MAX厅,http://epg.112114.xyz/douyu/4332
 漫威影片,http://akm-tct.douyucdn.cn/live/6140589rXut81F8a.m3u8?uuid=
 刘德华电影1,http://akm-tct.douyucdn.cn/live/2516864rfCm5vrkl.m3u8?uuid=
