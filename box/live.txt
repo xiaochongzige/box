@@ -249,9 +249,9 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 刘德华电影1,http://diyp.112114.xyz/douyu/2516864
 刘德华电影2,http://akm-tct.douyucdn.cn/live/8985415rZqOccb7x.m3u8?uuid=
 喜剧经典,http://akm-tct.douyucdn.cn/live/9650887rQO6aKVca.m3u8?uuid=
-喜剧经典,http://diyp.112114.xyz/douyu/9650887
-豆瓣高分,http://akm-tct.douyucdn.cn/live/8770422rP205D3AU.m3u8?uuid=
-林正英电影1,http://diyp.112114.xyz/douyu/218859
+喜剧经典,http://akm-tct.douyucdn.cn/live/9650887rDcuFcgUi.m3u8?uuid=
+豆瓣高分,http://akm-tct.douyucdn.cn/live/8770422rPynkEFeR.m3u8?uuid=
+林正英电影1,http://akm-tct.douyucdn.cn/live/218859rFZLUZWPCX.m3u8?uuid=
 林正英电影2,http://akm-tct.douyucdn.cn/live/7356023r78QK0GO7.m3u8?uuid=
 港金电影,http://akm-tct.douyucdn.cn/live/747764rSurv4YkpQ.m3u8?uuid=
 贝爷影厅1,http://akm-tct.douyucdn.cn/live/252802rhOZGvHgL2.m3u8?uuid=
@@ -278,9 +278,9 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 斗鱼電影12,http://akm-tct.douyucdn.cn/live/2987100rwU4I0jGj.m3u8?uuid=
 斗鱼電影13,http://akm-tct.douyucdn.cn/live/2758565rVIROeQiW.m3u8?uuid=
 斗鱼電影15,http://akm-tct.douyucdn.cn/live/3870925rC2yg75sS.m3u8?uuid=
-斗鱼電影16,http://diyp.112114.xyz/douyu/4396972
+斗鱼電影16,http://akm-tct.douyucdn.cn/live/4396972r18IOsxPI.m3u8?uuid=
 斗鱼電影17,http://akm-tct.douyucdn.cn/live/4549169rYnH7POVF.m3u8?uuid=
-斗鱼電影18,http://diyp.112114.xyz/douyu/8867878
+斗鱼電影18,http://akm-tct.douyucdn.cn/live/8867878rihWRHlVR.m3u8?uuid=
 斗鱼電影19,http://akm-tct.douyucdn.cn/live/4290711rTTBqCnSS.m3u8?uuid=
 斗鱼電影20,http://akm-tct.douyucdn.cn/live/6566671rC1jnYhfM.m3u8?uuid=
 斗鱼電影21,http://akm-tct.douyucdn.cn/live/8475821rccAftZ44.m3u8?uuid=
@@ -295,7 +295,6 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 斗鱼電影34,http://akm-tct.douyucdn.cn/live/4258555r3isvDdlq.m3u8?uuid=
 斗鱼電影35,http://akm-tct.douyucdn.cn/live/8705754rLIUsVvu0.m3u8?uuid=
 斗鱼電影37,http://akm-tct.douyucdn.cn/live/7528160rDOtpXHYr.m3u8?uuid=
-斗鱼电影39,http://diyp.112114.xyz/douyu/6785471
 斗鱼电影39,http://akm-tct.douyucdn.cn/live/7537296rcOgJFXmX.m3u8?uuid=
 斗鱼电影40,http://akm-tct.douyucdn.cn/live/8415464rr28wdU9m.m3u8?uuid=
 斗鱼电影41,http://akm-tct.douyucdn.cn/live/5522351rfDRipYot.m3u8?uuid=
