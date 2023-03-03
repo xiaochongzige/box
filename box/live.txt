@@ -177,6 +177,7 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 
 🚒→【影视剧解说】,#genre#
 宇哥侃故事,http://akm-tct.douyucdn.cn/live/8651489rmaIUYv85.m3u8?uuid=
+科幻片解说,http://akm-tct.douyucdn.cn/live/9338839r2oep5P2C.m3u8?uuid=
 麻将斗牌剧,http://akm-tct.douyucdn.cn/live/9559158rvmpMWDSD.m3u8?uuid=
 麻将斗牌剧,http://diyp.112114.xyz/douyu/9559158
 牛叔超强解说,http://akm-tct.douyucdn.cn/live/2758565rVIROeQiW.m3u8?uuid=
