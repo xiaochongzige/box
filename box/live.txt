@@ -139,6 +139,7 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 🚚→【内网轮播】,#genre#
 甄嬛传,http://100.94.1.36/ch/live4973/mqlive.m3u8
 甄嬛传,rtmp://100.94.3.232:1935/hls/zhz
+延禧攻略,rtmp://100.94.3.232:1935/hls/yxgl
 延禧攻略,http://100.94.1.36/ch/live5793/mqlive.m3u8
 闖關東,rtmp://100.94.3.232:1935/hls/cgd
 闖關東,http://100.94.1.36/ch/live5919/mqlive.m3u8
