@@ -151,9 +151,9 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 鬼吹灯系列,http://diyp.112114.xyz/douyu/9292503
 康熙微服私访,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.xs
 神探狄仁杰,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.xs
-大秦之大秦赋,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.xs
-大秦之 裂 变,http://akm-tct.douyucdn.cn/live/1584198r4D2vhwJg.m3u8?uuid=
-大秦之 裂 变,http://diyp.112114.xyz/douyu/1584198
+大秦四之大秦赋,http://zb.ldlive.xyz/uulb/hy.php?id=11352881
+大秦1-3,http://akm-tct.douyucdn.cn/live/1584198r4D2vhwJg.m3u8?uuid=
+大秦1-3,http://diyp.112114.xyz/douyu/1584198
 另类鬼片,http://akm-tct.douyucdn.cn/live/6906628rgKYw3XQF.m3u8?uuid=
 另类鬼片,http://diyp.112114.xyz/douyu/6906628
 恐怖鬼故事,http://akm-tct.douyucdn.cn/live/9682807rrWTIIvWC.m3u8?uuid=
