@@ -846,9 +846,6 @@ Beyond-灰色轨迹,https://cfss.cc/api/kg/61161.mp4
 陈小春-战无不胜,https://cfss.cc/api/kg/53645.mp4
 
 【无线电台】,#genre#
-中广新闻,http://n12.rcs.revma.com/78fm9wyy2tzuv
-中广音乐,http://n07.rcs.revma.com/ks4vsmg3qtzuv
-中广流行,http://n14.rcs.revma.com/aw9uqyxy2tzuv
 AsiaFM 亚洲音乐,http://asiafm.hk:8000/asiafm
 AsiaFM 亚洲热歌,http://asiafm.net:8000/asiafmhot
 AsiaFM 亚洲经典,http://goldfm.cn:8000/goldfm
