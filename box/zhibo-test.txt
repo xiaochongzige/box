@@ -208,6 +208,7 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 新三国,http://diyp.112114.xyz/douyu/10906963
 新三国,http://diyp.112114.xyz/douyu/11178322
 新水浒,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.xs
+闯关东,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_77_720P_t10/c53_lb_77_720P_t10.m3u8?key
 闯关东,http://diyp.112114.xyz/douyu/8787737
 闯关东,http://akm-tct.douyucdn.cn/live/8787737rvopZ7bpZ.m3u8?uuid=
 新水浒,http://diyp.112114.xyz/douyu/3758762
