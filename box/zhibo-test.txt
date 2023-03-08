@@ -216,6 +216,7 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 好先生,http://zb.ldlive.xyz/uulb/hy.php?id=11602088
 葛二蛋,http://zb.ldlive.xyz/uulb/hy.php?id=11602072
 一代枭雄,http://zb.ldlive.xyz/uulb/hy.php?id=11342398
+青岛往事,http://121.51.249.8/txtest-xp2p.p2p.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.xs
 青岛往事,http://zb.ldlive.xyz/uulb/hy.php?id=11342434
 鬼吹灯系列,http://akm-tct.douyucdn.cn/live/9292503r6XLE4nEX.m3u8?uuid=
 鬼吹灯系列,http://diyp.112114.xyz/douyu/9292503
