@@ -47,6 +47,7 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 电影_星爷,http://121.51.249.110/txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.xs?
 电影_星爷,http://zb.ldlive.xyz/uulb/hy.php?id=11342412
 电影_英叔,http://tv-jiekou.ga/huya.php?id=11342421
+电影_英叔,http://epg.112114.xyz/huya/11342421
 电影_英叔,http://121.51.249.110/txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs?
 电影_英叔,http://zb.ldlive.xyz/uulb/hy.php?id=11342421
 电影_达叔,http://121.51.249.110/txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs?
