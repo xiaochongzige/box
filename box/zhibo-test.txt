@@ -42,6 +42,7 @@ CCTV-17 高清,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 
 【虎牙明星】,#genre#
+虎牙动作大片,http://111.62.73.217/tx.flv.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.m3u8
 虎牙动作大片,http://zb.ldlive.xyz/uulb/hy.php?id=11602077
 电影_星爷,http://111.62.73.217/tx.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
 电影_星爷,http://zb.ldlive.xyz/uulb/hy.php?id=11342412
