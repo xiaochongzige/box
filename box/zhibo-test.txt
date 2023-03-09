@@ -527,8 +527,6 @@ AsiaFM 亚洲粤语,http://asiafm.net:8000/asiafmyyt
 AsiaFM 亚洲电台,http://stream.rcs.revma.com/xpgtqc74hv8uv
 AsiaFM 亚太电台,http://stream.rcs.revma.com/kydend74hv8uv
 Big B Radio 中文流行,http://cpop.bigbradio.net/s
-Big B Radio 韩语流行,http://kpop.bigbradio.net/s
-Big B Radio 日语流行,http://jpop.bigbradio.net/s
 Big B Radio 亚洲流行,http://apop.bigbradio.net/s
 CGTN Radio,http://sk.cri.cn/am846.m3u8
 CRI 环球资讯广播,https://sk.cri.cn/905.m3u8
