@@ -204,16 +204,16 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 🚚【 电 视 剧 】,#genre#
 原版四大名著,http://diyp.112114.xyz/douyu/1046540
 原版四大名著,http://akm-tct.douyucdn.cn/live/1046540r7WBGRJrs.m3u8?uuid=
-强哥:这瓜保熟么,http://111.62.73.217/tx.flv.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.m3u8
+强哥:这瓜保熟么,http://aldirect.corp-hls.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.m3u8??
 强哥:这瓜保熟么,http://zb.ldlive.xyz/uulb/hy.php?id=11601970
 强哥:这瓜保熟么,http://akm-tct.douyucdn.cn/live/2726977rpczXC5bM.m3u8?uuid=
-芈月传,http://111.62.73.217/tx.flv.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.m3u8
+芈月传,http://aldirect.corp-hls.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.m3u8??
 芈月传,http://zb.ldlive.xyz/uulb/hy.php?id=11352975
-新三国,http://111.62.73.217/tx.flv.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.m3u8
+新三国,http://aldirect.corp-hls.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.m3u8??
 新三国,http://zb.ldlive.xyz/uulb/hy.php?id=11352944
 新三国,http://diyp.112114.xyz/douyu/10906963
 新三国,http://diyp.112114.xyz/douyu/11178322
-老水浒,http://111.62.73.217/tx.flv.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.m3u8
+老水浒,http://aldirect.corp-hls.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.m3u8??
 老水浒,http://zb.ldlive.xyz/uulb/hy.php?id=11602081
 新水浒,http://zb.ldlive.xyz/uulb/hy.php?id=11342384
 闯关东,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_77_720P_t10/c53_lb_77_720P_t10.m3u8?key
@@ -221,21 +221,21 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 闯关东,http://akm-tct.douyucdn.cn/live/8787737rvopZ7bpZ.m3u8?uuid=
 新水浒,http://diyp.112114.xyz/douyu/3758762
 新水浒,http://akm-tct.douyucdn.cn/live/3758762rpgxvaOpy.m3u8?uuid=
-好先生,http://111.62.73.217/tx.flv.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.m3u8
+好先生,http://aldirect.corp-hls.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.m3u8??
 好先生,http://zb.ldlive.xyz/uulb/hy.php?id=11602088
-葛二蛋,http://111.62.73.217/tx.flv.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.m3u8
+葛二蛋,http://aldirect.corp-hls.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.m3u8??
 葛二蛋,http://zb.ldlive.xyz/uulb/hy.php?id=11602072
-一代枭雄,http://111.62.73.217/tx.flv.huya.com/src/1394565206-1394565206-5989611951909502976-2789253868-10057-A-0-1.m3u8
+一代枭雄,http://aldirect.corp-hls.huya.com/src/1394565206-1394565206-5989611951909502976-2789253868-10057-A-0-1.m3u8??
 一代枭雄,http://zb.ldlive.xyz/uulb/hy.php?id=11342398
-青岛往事,http://111.62.73.217/tx.flv.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.m3u8
+青岛往事,http://aldirect.corp-hls.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.m3u8??
 青岛往事,http://zb.ldlive.xyz/uulb/hy.php?id=11342434
 鬼吹灯系列,http://akm-tct.douyucdn.cn/live/9292503r6XLE4nEX.m3u8?uuid=
 鬼吹灯系列,http://diyp.112114.xyz/douyu/9292503
-康熙微服私访,http://111.62.73.217/tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.m3u8
+康熙微服私访,http://aldirect.corp-hls.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.m3u8??
 康熙微服私访,http://zb.ldlive.xyz/uulb/hy.php?id=11342418
-神探狄仁杰,http://111.62.73.217/tx.flv.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.m3u8
+神探狄仁杰,http://aldirect.corp-hls.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.m3u8??
 神探狄仁杰,http://zb.ldlive.xyz/uulb/hy.php?id=11352958
-大秦四之大秦赋,http://111.62.73.217/tx.flv.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.m3u8
+大秦四之大秦赋,http://aldirect.corp-hls.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.m3u8??
 大秦四之大秦赋,http://zb.ldlive.xyz/uulb/hy.php?id=11352881
 大秦1-3,http://akm-tct.douyucdn.cn/live/1584198r4D2vhwJg.m3u8?uuid=
 大秦1-3,http://diyp.112114.xyz/douyu/1584198
