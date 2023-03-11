@@ -244,14 +244,6 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 恐怖鬼故事,http://diyp.112114.xyz/douyu/9682807
 
 🚚【经典剧场】,#genre#
-百视独播1,http://zb.ldlive.xyz/uulb/bs.php?id=124
-百视独播2,http://zb.ldlive.xyz/uulb/bs.php?id=126
-百视独播3,http://zb.ldlive.xyz/uulb/bs.php?id=128
-百视独播4,http://zb.ldlive.xyz/uulb/bs.php?id=247
-百视独播5,http://zb.ldlive.xyz/uulb/bs.php?id=144
-百视自制1,http://zb.ldlive.xyz/uulb/bs.php?id=213
-百视自制2,http://zb.ldlive.xyz/uulb/bs.php?id=216
-百视直播,http://zb.ldlive.xyz/uulb/bs.php?id=146
 国剧修复,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_77_720P_t10/c53_lb_77_720P_t10.m3u8?key
 老剧剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_92_600_t10/c52_lb_92_600_t10.m3u8?key
 华语院线,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_114_600_t10/c51_lb_114_600_t10.m3u8?key
