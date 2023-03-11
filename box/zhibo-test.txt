@@ -638,7 +638,7 @@ UFM 1003,https://22283.live.streamtheworld.com/UFM_1003AAC.aac
 大片片说小片,http://epg.112114.xyz/douyu/7489563
 火龙果说电影,http://epg.112114.xyz/douyu/9559158
 
-【林正英专辑】#genre#
+【林正英专辑】,#genre#
 林正英-第01部,https://50069.njc.svp.tencent-cloud.com/0b78uyaaoaaahqapjfqfwfqvbjwda6taabya.f10002.mp4
 林正英-第02部,https://50069.njc.svp.tencent-cloud.com/0bc3uuabyaaagmahv4c745rfbjoddssqahaa.f10002.mp4
 林正英-第03部,https://50069.njc.svp.tencent-cloud.com/0bc3reabyaaa24ahktk75frfbcoddseqahaa.f10002.mp4
