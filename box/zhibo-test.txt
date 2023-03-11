@@ -244,7 +244,7 @@ CCTV-5+ 高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 恐怖鬼故事,http://diyp.112114.xyz/douyu/9682807
 
 【经典剧场】,#genre#
-百视独播1,http://diyp.112114.xyz/bs/124
+百视独播1,http://diyp.112114.xyz/baishi/124
 百视独播2,http://zb.ldlive.xyz/uulb/bs.php?id=126
 百视独播3,http://zb.ldlive.xyz/uulb/bs.php?id=128
 百视独播4,http://zb.ldlive.xyz/uulb/bs.php?id=247
