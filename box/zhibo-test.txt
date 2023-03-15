@@ -97,7 +97,7 @@ CCTV-17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m
 CCTV-17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
 CCTV-17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8
 
-【央视IPTV】,#genre#
+【央视ITV】,#genre#
 CCTV1,http://175.10.37.200:9901/tsfile/live/0001_1.m3u8
 CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 CCTV1,http://218.29.55.44:808/hls/1/index.m3u8
