@@ -462,7 +462,6 @@ CCTV-移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6
 新三国,http://diyp.112114.xyz/douyu/11178322
 老水浒,http://aldirect.corp-hls.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.m3u8??
 老三国,http://aldirect.corp-hls.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.m3u8??
-闯关东,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_77_720P_t10/c53_lb_77_720P_t10.m3u8?key
 闯关东,http://diyp.112114.xyz/douyu/8787737
 闯关东,http://akm-tct.douyucdn.cn/live/8787737rvopZ7bpZ.m3u8?uuid=
 新水浒,http://aldirect.corp-hls.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.m3u8??
