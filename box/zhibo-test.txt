@@ -416,6 +416,8 @@ CCTV-移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6
 一代枭雄,http://zb.ldlive.xyz/uulb/hy.php?id=11342398
 青岛往事,http://aldirect.corp-hls.huya.com/src/1394575560-1394575560-5989656422000885760-2789274576-10057-A-0-1.m3u8??
 青岛往事,http://zb.ldlive.xyz/uulb/hy.php?id=11342434
+你是我的荣耀,http://aldirect.corp-hls.huya.com/src/1423782098-1423782098-6115097547540267008-2847687652-10057-A-0-1.m3u8??
+你是我的荣耀,http://diyp.112114.xyz/huya/11352920
 鬼吹灯系列,http://aldirect.corp-hls.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.m3u8??
 鬼吹灯系列,http://akm-tct.douyucdn.cn/live/9292503r6XLE4nEX.m3u8?uuid=
 鬼吹灯系列,http://diyp.112114.xyz/douyu/9292503
