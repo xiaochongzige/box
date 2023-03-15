@@ -402,11 +402,10 @@ CCTV-移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6
 新三国,http://diyp.112114.xyz/douyu/10906963
 新三国,http://diyp.112114.xyz/douyu/11178322
 老水浒,http://aldirect.corp-hls.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.m3u8??
-老水浒,http://zb.ldlive.xyz/uulb/hy.php?id=11602081
-新水浒,http://zb.ldlive.xyz/uulb/hy.php?id=11342384
-闯关东,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_77_720P_t10/c53_lb_77_720P_t10.m3u8?key
+老三国,http://aldirect.corp-hls.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.m3u8??
 闯关东,http://diyp.112114.xyz/douyu/8787737
 闯关东,http://akm-tct.douyucdn.cn/live/8787737rvopZ7bpZ.m3u8?uuid=
+新水浒,http://aldirect.corp-hls.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.m3u8??
 新水浒,http://diyp.112114.xyz/douyu/3758762
 新水浒,http://akm-tct.douyucdn.cn/live/3758762rpgxvaOpy.m3u8?uuid=
 好先生,http://aldirect.corp-hls.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.m3u8??
@@ -415,8 +414,9 @@ CCTV-移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6
 葛二蛋,http://zb.ldlive.xyz/uulb/hy.php?id=11602072
 一代枭雄,http://aldirect.corp-hls.huya.com/src/1394565206-1394565206-5989611951909502976-2789253868-10057-A-0-1.m3u8??
 一代枭雄,http://zb.ldlive.xyz/uulb/hy.php?id=11342398
-青岛往事,http://aldirect.corp-hls.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.m3u8??
+青岛往事,http://aldirect.corp-hls.huya.com/src/1394575560-1394575560-5989656422000885760-2789274576-10057-A-0-1.m3u8??
 青岛往事,http://zb.ldlive.xyz/uulb/hy.php?id=11342434
+鬼吹灯系列,http://aldirect.corp-hls.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.m3u8??
 鬼吹灯系列,http://akm-tct.douyucdn.cn/live/9292503r6XLE4nEX.m3u8?uuid=
 鬼吹灯系列,http://diyp.112114.xyz/douyu/9292503
 康熙微服私访,http://aldirect.corp-hls.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.m3u8??
