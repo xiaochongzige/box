@@ -456,6 +456,7 @@ CCTV-移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6
 康熙微服私访,http://aldirect.corp-hls.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.m3u8??
 康熙微服私访,http://zb.ldlive.xyz/uulb/hy.php?id=11342418
 神探狄仁杰,http://aldirect.corp-hls.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.m3u8??
+神探狄仁杰,http://epg.112114.xyz/huya/11352958
 神探狄仁杰,http://zb.ldlive.xyz/uulb/hy.php?id=11352958
 大秦四之大秦赋,http://aldirect.corp-hls.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.m3u8??
 大秦四之大秦赋,http://zb.ldlive.xyz/uulb/hy.php?id=11352881
