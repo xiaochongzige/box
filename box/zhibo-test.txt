@@ -1536,8 +1536,6 @@ CCTV-17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m
 鹿鼎记,http://100.94.1.36/ch/live5666/mqlive.m3u8
 
 【 电 视 剧】,#genre#
-原版四大名著,http://diyp.112114.xyz/douyu/1046540
-原版四大名著,http://akm-tct.douyucdn.cn/live/1046540r7WBGRJrs.m3u8?uuid=
 强哥:这瓜保熟么,http://aldirect.corp-hls.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.m3u8??
 强哥:这瓜保熟么,http://zb.ldlive.xyz/uulb/hy.php?id=11601970
 强哥:这瓜保熟么,http://akm-tct.douyucdn.cn/live/2726977rpczXC5bM.m3u8?uuid=
