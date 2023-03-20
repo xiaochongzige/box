@@ -1537,6 +1537,9 @@ CCTV-17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m
 
 【 电 视 剧】,#genre#
 测试,http://live.aptvapp.com/live/huya/11342412
+测试,http://zb.ldlive.xyz/uulb/hy.php?id=11342412
+测试,http://zb.ldlive.xyz/xzlb/hy.php?id=11342412
+测试,http://zb.ldlive.xyz/czlb/hy.php?id=11342412
 强哥:这瓜保熟么,http://aldirect.corp-hls.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.m3u8??
 强哥:这瓜保熟么,http://zb.ldlive.xyz/xzlb/hy.php?id=11601970
 强哥:这瓜保熟么,http://akm-tct.douyucdn.cn/live/2726977rpczXC5bM.m3u8?uuid=
