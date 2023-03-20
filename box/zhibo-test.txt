@@ -1266,38 +1266,6 @@ CCTV-17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m
 黑龙江|七台河新闻综合,http://39.134.65.179/PLTV/88888888/224/3221225783/1.m3u8
 黑龙江|七台河公共频道,http://39.134.65.179/PLTV/88888888/224/3221225800/1.m3u8
 
-【科学知识】,#genre#
-国家地理,P2p://generationnexxxt.com:19806/e3996941de18491dbea8f17468ab6f2d
-国家地理野生,P2p://generationnexxxt.com:19806/3b9bf42549604a2ab036b392b5108cf7
-探索频道,P2p://generationnexxxt.com:19806/099085cd03b04ac09385ecb83a6d0ae3
-TLC旅游生活,P2p://generationnexxxt.com:19806/64103b95000bcdcd413d77853f003902
-动物星球,P2p://generationnexxxt.com:19806/555329d333ca4352b023f6431e64f011
-Nat Geo Wild,P2p://generationnexxxt.com:19806/789748eb75bb4c3b9522742df4eaee1b
-ELTV生活英语台,P2p://generationnexxxt.com:19806/fc1397596aee4dc48f75c2c3b326119a
-达文西,P2p://generationnexxxt.com:19806/b9cfcbdf28344bb8bfe3590699905956
-BBC Earth,P2p://generationnexxxt.com:19806/3c2c6ac179f448f5ae5d9cc8abc5efb4
-Discovery Asia,P2p://generationnexxxt.com:19806/63ec7853effa4011a77569913c8fe5e7
-Discovery 科学,P2p://generationnexxxt.com:19806/7157f2127328417daedb7083ac5e7ea2
-DMAX,P2p://generationnexxxt.com:19806/40a2d5922fb24a5f96900536dc212cbf
-EVE,P2p://generationnexxxt.com:19806/cb003e49d5224ce09856f1c1770c32e5
-滚动力rollor,P2p://generationnexxxt.com:19806/7d325479411f41c49a945e80c7bdaf97
-历史频道,P2p://generationnexxxt.com:19806/de642a93cfae4af18c8e47af38c796ce
-罪案侦缉,P2p://generationnexxxt.com:19806/86f73b65769a48bbaf9bd83fd430df8a
-BBC Lifestyle,P2p://generationnexxxt.com:19806/f030035e810744eebe54fb9a30b6497b
-LUXE TV,P2p://generationnexxxt.com:19806/63c2fe237e75428eaaea2ae9fd1750ab
-Lifetime,P2p://generationnexxxt.com:19806/adde7c4d8aaa48638f0ec9d36f5c2c93
-KLT-靖天国际台,P2p://generationnexxxt.com:19806/e4a17f356b044d28b014797d13fd9d58
-HGTV居家乐活,P2p://generationnexxxt.com:19806/61c2aee42c734f499d74af79bb820207
-Love Nature,P2p://generationnexxxt.com:19806/e847a5ed513f4f7d84611b80996078f4
-美食星球,P2p://generationnexxxt.com:19806/48a5325e74354deaa422edba7a4a75b6
-亚洲美食,P2p://generationnexxxt.com:19806/1ba5704443ec4f0aa32e9eb079008758
-Food Network,P2p://generationnexxxt.com:19806/59775ab5a3ac40be8aaf5db50417b2c6
-亚洲旅游台,P2p://generationnexxxt.com:19806/b560014689fa4f339bf68f059ca51255
-EYE TV旅游台,P2p://generationnexxxt.com:19806/0b1bdbbf73a5429ead599b28ba908e94
-时尚频道,P2p://generationnexxxt.com:19806/f6d54ea8fafc433ab2c56d4929cbdd75
-TV5MONDE Style 生活时尚,P2p://generationnexxxt.com:19806/50a3974dcf7e431c91e8f212d708cd0f
-Travel Channel,P2p://generationnexxxt.com:19806/15369bd05a294d3087377848d53a0a98
-
 【虎牙明星】,#genre#
 虎牙动作大片,http://aldirect.corp-hls.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.m3u8??
 虎牙动作大片,http://121.51.249.73/txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs?
