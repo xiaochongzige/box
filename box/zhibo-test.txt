@@ -1909,6 +1909,7 @@ NewTV超级体育,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Con
 NewTV超级综艺,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 
 【影视解说】,#genre#
+解说_解密电影特效,http://aldirect.corp-hls.huya.com/src/1099531840866-1099531840866-86814560501104640-2199063805188-10057-A-0-1.m3u8??
 解说_憨哥说电影,http://aldirect.corp-hls.huya.com/src/1199578904068-1199578904068-5510565378616459264-2399157931592-10057-A-0-1.m3u8??
 解说_恐怖电影,http://aldirect.corp-hls.huya.com/src/94525224-2703099090-11609722189397360640-4587890396-10057-A-0-1.m3u8??
 解说_电影狂人,http://aldirect.corp-hls.huya.com/src/1447405089-1447405089-6216557521318969344-4349145444-10057-A-0-1.m3u8??
