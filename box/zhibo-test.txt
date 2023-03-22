@@ -1,5 +1,6 @@
 ﻿【央视高清】,#genre#
 66,http://43.128.40.42:198/虎牙直播/huya.php?id=23749096
+douyu,http://43.128.40.42:198/斗鱼直播/douyu.php?id=2758565
 CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV-1,http://117.169.121.162:6610/PLTV/88888910/224/3221225618/index.m3u8
