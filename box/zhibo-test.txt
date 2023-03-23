@@ -1,4 +1,5 @@
 ﻿【央视高清】,#genre#
+66,http://live.aptvapp.com/live/douyu/4332
 CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV-1,http://117.169.121.162:6610/PLTV/88888910/224/3221225618/index.m3u8
@@ -1278,7 +1279,6 @@ CCTV-17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m
 电影_英叔,http://live.aptvapp.com/live/huya/11342421
 电影_英叔,http://diyp.112114.xyz/huya/11342421
 电影_英叔,http://epg.112114.xyz/huya/11342421
-电影_英叔,http://live.aptvapp.com/live/huya/11342421
 电影_达叔,http://aldirect.corp-hls.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.m3u8??
 电影_达叔,http://121.51.249.73/txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs?
 电影_达叔,http://live.aptvapp.com/live/huya/11336592
