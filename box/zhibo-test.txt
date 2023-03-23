@@ -1502,6 +1502,7 @@ CCTV-17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m
 喜剧经典,http://diyp.112114.xyz/douyu/9650887
 豆瓣高分,http://akm-tct.douyucdn.cn/live/8770422rP205D3AU.m3u8?uuid=
 豆瓣高分,http://live.aptvapp.com/live/douyu/8770422
+豆瓣高分,http://zb.ldlive.xyz/zalb/dy.php?id=8770422
 林正英电影1,http://diyp.112114.xyz/douyu/218859
 周星驰,http://zb.ldlive.xyz/zalb/dy.php?id=122402
 刘德华,http://zb.ldlive.xyz/zalb/dy.php?id=2516864
@@ -1512,7 +1513,6 @@ CCTV-17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m
 邵氏影院,http://zb.ldlive.xyz/zalb/dy.php?id=4246519
 吃米滴虫,http://zb.ldlive.xyz/zalb/dy.php?id=315457
 高分电影,http://zb.ldlive.xyz/zalb/dy.php?id=7254536
-豆瓣高分,http://zb.ldlive.xyz/zalb/dy.php?id=8770422
 漫威影院,http://zb.ldlive.xyz/zalb/dy.php?id=6140589
 特辑电影,http://zb.ldlive.xyz/zalb/dy.php?id=3637778
 粤语电影,http://zb.ldlive.xyz/zalb/dy.php?id=1226741
