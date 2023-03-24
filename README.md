@@ -613,11 +613,6 @@ https://down.52pojie.cn/Tools/
 
 试试吧，不一定对。
 
-### Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/dlgt7/TVbox-interface.svg)](https://starchart.cc/dlgt7/TVbox-interface)
-
-
 
 本页面只是收集Box，自用请勿宣传。
 
