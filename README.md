@@ -45,10 +45,6 @@
 
 + Updated Commit: a0bda9d618196a3fa9f11ebefb97e557f2fc12ee
 
-# TVBox-kensonmiao
-- [kensonmiao/CatVodTVOSC](https://github.com/kensonmiao/CatVodTVOSC)
-
-+ Updated Commit: 09be7d64f6e85051190c61d59aa3eb744ad699e0
 
 ## 仓库平台&配置
 ### 仓库&储存平台
