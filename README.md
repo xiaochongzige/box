@@ -39,10 +39,6 @@
 
 + Updated Commit: acfb721071fae147dd038d653b728f87ff5f1ebf
 
-# AlphaTV
-- [TVBox-FongMi](https://github.com/lqinyli/FONGMI-TV)
-
-+ Updated Commit: 04b30d5adfcf2f72c5c64b0745b42d2cd96ae303
 
 # SJTV
 - [M-LTV/TVBox-suanjin](https://github.com/M-LTV/TVBox-suanjin)
