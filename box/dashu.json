@@ -222,7 +222,7 @@
 
 {"key":"push_agent","name":"▶┃推送┃磁力","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php"}, 
 
-//{"key": "ext_live_protocol","name": "关注公众号“肥猫不肥”","type": 3,"api": "http://alist.肥猫.love:63/协议.js","ext": "clan://proxy?sourcekey=ext_live_protocol"}],
+{"key": "ext_live_protocol","name": "关注公众号“肥猫不肥”","type": 3,"api": "http://alist.肥猫.love:63/协议.js","ext": "clan://proxy?sourcekey=ext_live_protocol"}],
 
 "lives":[
 
