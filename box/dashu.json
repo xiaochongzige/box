@@ -2,7 +2,7 @@
 "sites":[
 
 
-{"key":"js豆瓣","name":"🐼┃豆瓣┃免费接口,办公室自用","type":3,"api":"https://gitea.com/xiaochongge/box/raw/branch/master/cat/json/api-douban.js","ext":"https://gitea.com/xiaochongge/box/raw/branch/master/cat/json/py-douban.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"js豆瓣","name":"🐼┃豆瓣┃免费接口,办公室自用","type":3,"api":"https://gitea.com/xiaochongge/box/raw/branch/master/cat/json/drpy2.min.js","ext":"https://gitea.com/xiaochongge/box/raw/branch/master/cat/json/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 //{"key":"douban","name":"🐼┃豆瓣┃T首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 
