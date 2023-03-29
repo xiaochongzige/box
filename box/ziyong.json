@@ -379,7 +379,7 @@
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider":"https://gitea.com/xiaochongge/box/raw/branch/master/box/duosou.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20veGlhb2Nob25nZ2UvYm94L3Jhdy9icmFuY2gvbWFzdGVyL2JveC9saXZlLnR4dA=="
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20veGlhb2Nob25nZ2UvYm94L3Jhdy9icmFuY2gvbWFzdGVyL2JveC96aGliby10ZXN0LnR4dA=="
 ]}]}],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
