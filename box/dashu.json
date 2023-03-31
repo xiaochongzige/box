@@ -38,15 +38,13 @@
 
 //{"key": "csp_Yht","name":"🌵┃荷塘┃影视","type": 3,"api": "csp_Yht","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://yehetang.cc"},
 
-//{"key": "Tian","name": "🐾┃天天┃影视","type": -1,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"bdc1c75081e5e477189a463baa47e392"},
+{"key": "Tian","name": "🐾┃天天┃影视","type": -1,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"bdc1c75081e5e477189a463baa47e392"},
 
 {"key":" 在线┃直播","name":"📺┃在线┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"Xinsj","name":"🌟┃视觉┃影视","type":"3","api":"csp_Xinsj","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://www.6080dy2.com"},
 
-//{"key":"csp_XBPQ新视觉","name":"🌟┃视觉┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/json/新视觉影院.json"},
 
-{"key":"csp_biubiu_鸭奈飞","name":"🦆┃奈飞┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":"http://我不是.肥猫.love:63/json/鸭奈飞.json"},
 
 {"key":"csp_AppTT","name":"🐰┃图图┃影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","m3u8ads": "hd.youyhn.com"},
 
