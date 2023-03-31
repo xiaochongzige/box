@@ -7,7 +7,7 @@
 {"key":"js豆瓣","name":"🐼┃豆瓣┃荐片","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/豆瓣.js"},
 
 
-{"key":"直播","name":"💻┃电视┃直播","type":3,"api":"https://gitea.com/xiaochongge/box/raw/branch/master/box/zhibo-dianbo2.js","ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.likepoems.com/img/mc"},
+{"key":"直播","name":"💻┃电视┃直播","type":3,"api":"https://gitea.com/xiaochongge/box/raw/branch/master/box/zhibo-dianbo2.js","ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#央视高清$https://gitea.com/xiaochongge/box/raw/branch/master/zhibo/CCTV.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.likepoems.com/img/mc"},
 
 {"key": "csp_BuLei","name":"🍩┃布雷┃影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.bulei.cc"},
 
