@@ -20,8 +20,6 @@
     
 {"key":"csp_Paper","name":"📜┃纸条┃云盘","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/token.php"},
 
-{"key": "csp_Hlsp","name": "👿┃黑料┃影视","type": 3,"api": "csp_Hlsp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/json/黑料.json"},
-
 {"key":" 在线┃直播","name":"📺┃在线┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"Xinsj","name":"🌟┃视觉┃影视","type":"3","api":"csp_Xinsj","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://www.6080dy2.com"},
