@@ -6,9 +6,6 @@
 
 {"key":"js豆瓣","name":"🐼┃豆瓣┃荐片","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/豆瓣.js"},
 
-
-{"key":"直播","name":"💻┃电视┃直播","type":3,"api":"https://gitea.com/xiaochongge/box/raw/branch/master/box/zhibo-dianbo2.js","ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#央视高清$https://gitea.com/xiaochongge/box/raw/branch/master/zhibo/CCTV.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.likepoems.com/img/mc"},
-
 {"key": "csp_BuLei","name":"🍩┃布雷┃影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.bulei.cc"},
 
 {"key":"YQK_spider","name":"🙆┃一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"playerType": 2,"ext": "https://api-tx.11ty.top","m3u8ads": "hd.youyhn.com"},
@@ -43,8 +40,6 @@
 
 //"playurl":"json:http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="
 
-
-{"key": "xxyy","name": "🦄┃小路┃影院","type":1,"api":"http://47.108.39.249:9684/ms=10A","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["4K专区"]},
 
 {"key":"csp_Lib","name":"💫┃Lib  ┃影视","type":3,"api":"csp_Libvio","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://tv.libvio.cc"},
 
