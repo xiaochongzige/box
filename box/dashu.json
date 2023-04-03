@@ -151,7 +151,7 @@
     {"group":"redirect",
     "channels":[{
     "name":"redirect",
-    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20veGlhb2Nob25nZ2UvYm94L3Jhdy9icmFuY2gvbWFzdGVyL2JveC96aGliby10ZXN0LnR4dA=="]}]
+    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20veGlhb2Nob25nemlnZS9ib3gvbWFzdGVyL2JveC96aGliby10ZXN0LnR4dA=="]}]
     }],
 
 
