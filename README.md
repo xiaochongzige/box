@@ -40,12 +40,6 @@
 + Updated Commit: acfb721071fae147dd038d653b728f87ff5f1ebf
 
 
-# SJTV
-- [M-LTV/TVBox-suanjin](https://github.com/M-LTV/TVBox-suanjin)
-
-+ Updated Commit: a0bda9d618196a3fa9f11ebefb97e557f2fc12ee
-
-
 ## 仓库平台&配置
 ### 仓库&储存平台
 - [Github](https://github.com/)
