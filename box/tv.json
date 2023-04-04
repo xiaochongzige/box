@@ -151,7 +151,7 @@
     {"group":"redirect",
     "channels":[{
     "name":"redirect",
-    "urls":["proxy://do=live&type=txt&ext=aHR0cDovL2dnLmdnL3poaWJvLXRlc3Q="]}]
+    "urls":["proxy://do=live&type=txt&ext=aHR0cDovL2dnLmdnL3poaWJvLXRlc3Q======="]}]
     }],
 
 
