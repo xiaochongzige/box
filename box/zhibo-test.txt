@@ -2131,6 +2131,47 @@ CCTV-17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m
 虎 牙|笑傲帮,http://aldirect.corp-hls.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.m3u8??
 虎 牙|笑傲帮,http://121.51.249.73/txtest-xp2p.p2p.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.xs?
 
+【影视综合】,#genre#
+4K影视2,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8?blog.ntnas.top
+纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8?blog.ntnas.top
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
+CHC家庭电影,http://www.51nas.top:4022/udp/239.81.0.238:4056
+CHC家庭电影,http://111.20.40.171/PLTV/88888893/224/3221226462/index.m3u8
+CHC高清电影,http://www.51nas.top:4022/udp/239.81.0.240:4056
+CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
+凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+新泰影视频道,http://111.17.214.4:1935/live/xtys/playlist.m3u8
+新泰影视频道,http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
+鹿鼎记,http://106.53.212.251/daili/yy.php?id=28265277
+周星驰②,http://106.53.212.251:80/daili/yy.php?id=1353881242
+周星驰③,http://106.53.212.251:80/daili/yy.php?id=1352227227
+射雕英雄,http://106.53.212.251:80/daili/yy.php?id=1354210357
+薛刚反唐,http://106.53.212.251/daili/yy.php?id=31313785
+神雕侠侣,http://106.53.212.251/daili/yy.php?id=1351762426
+高清亮剑,http://106.53.212.251:80/daili/yy.php?id=1353392400
+好看电影,http://106.53.212.251:80/daili/yy.php?id=1353312849
+萌儿陪看,http://106.53.212.251/daili/yy.php?id=29216766
+武侠玄幻,http://106.53.212.251:80/daili/yy.php?id=28099939
+国产玄幻,http://106.53.212.251:80/daili/yy.php?id=1354143978
+僵尸玄幻,http://106.53.212.251/daili/yy.php?id=24921161
+英叔全集,http://106.53.212.251:80/daili/yy.php?id=1354869861
+鬼片僵尸,http://data.3g.yy.com/live/hls/24066336/24066336
+动作 搞笑,http://106.53.212.251:80/daili/yy.php?id=34460526
+鬼片500部,http://106.53.212.251/daili/yy.php?id=1353059120
+燕双鹰专场,http://106.53.212.251:80/daili/yy.php?id=1352227153
+隋唐英雄传,http://106.53.212.251/daili/yy.php?id=1352475619
+康熙私访①,http://106.53.212.251:80/daili/yy.php?id=1352811698
+陪你看电影,http://106.53.212.251:80/daili/yy.php?id=24407222
+24小时大片,http://106.53.212.251:80/daili/yy.php?id=24066336
+一起看电影,http://106.53.212.251:80/daili/yy.php?id=1354210357
+鹿鼎记高清,http://106.53.212.251:80/daili/yy.php?id=28265277
+神探狄仁杰,http://106.53.212.251:80/daili/yy.php?id=38338029
+电影 超好看,http://106.53.212.251:80/daili/yy.php?id=29460894
+狄仁杰1-4部,http://106.53.212.251:80/daili/yy.php?id=1351755386
+天龙倚天笑傲,http://106.53.212.251/daili/yy.php?id=1351814644
+林正英僵尸鬼片,http://106.53.212.251/daili/yy.php?id=34229877
+林正英搞笑僵尸,http://106.53.212.251/daili/yy.php?id=1351505899
+
 【斗鱼直播】,#genre#
 贝爷MAX厅,http://zb.ldlive.xyz/zalb/dy.php?id=4332
 贝爷MAX厅,http://epg.112114.xyz/douyu/4332
