@@ -10,9 +10,6 @@
 {"key": "直播转点播","name":"🐼️┃电视┃直播","type": 3,"api":"http://我不是.肥猫.love:63/JS/直播转点播2.js","ext":"http://我不是.肥猫.love:63/lives/直播仓.json"},
 
 
-
-
-
 {"key": "csp_BuLei","name":"🍩┃布雷┃影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.bulei.cc"},
 
 {"key":"YQK_spider","name":"🙆┃一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"playerType": 2,"ext": "https://api-tx.11ty.top","m3u8ads": "hd.youyhn.com"},
@@ -27,30 +24,16 @@
 
 {"key": "csp_MeiJu69","name": "🗽┃六九┃美剧","type": 3,"api":"csp_MeiJu69","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/"},
     
-//{"key" : "Alist1","name" :"🅿┃Alis ┃网盘","type" : 3,"api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","ext" : "http://我不是.肥猫.love:63/alist.json"},
-//{"key": "Alist2","name": "🅿┃Alis ┃搜索","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"http://我不是.肥猫.love:63/json/alist3.json","jar":"http://我不是.肥猫.love:63/Jar/Alist3.jar;md5;906B337D4B4BAEF13292D004E5FD8F9B"},
-
 {"key":"csp_Paper","name":"📜┃纸条┃云盘","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/token.php"},
 
-//{"key":"csp_GitCafe","name":"📜┃纸条┃雲盘","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://我不是.肥猫.love:63/token.php"},
 {"key": "csp_Hlsp","name": "👿┃黑料┃影视","type": 3,"api": "csp_Hlsp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/json/黑料.json"},
-
-//{"key": "csp_Yht","name":"🌵┃荷塘┃影视","type": 3,"api": "csp_Yht","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://yehetang.cc"},
-
-//{"key": "Tian","name": "🐾┃天天┃影视","type": -1,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"bdc1c75081e5e477189a463baa47e392"},
 
 {"key":" 在线┃直播","name":"📺┃在线┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"Xinsj","name":"🌟┃视觉┃影视","type":"3","api":"csp_Xinsj","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://www.6080dy2.com"},
 
-//{"key":"csp_XBPQ新视觉","name":"🌟┃视觉┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/json/新视觉影院.json"},
-
-//"key":"csp_biubiu_鸭奈飞","name":"🦆┃奈飞┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":"http://我不是.肥猫.love:63/json/鸭奈飞.json"},
-
 {"key":"js七七","name":"🌈┃七七┃影视","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷云77.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_AppTT","name":"🐰┃图图┃影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","m3u8ads": "hd.youyhn.com"},
-
-//{"key":"csp_Kunyu77","name":"🌈┃七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://我不是.肥猫.love:63/Jar/panda230130.jar"},
 
 {"key":"Kuaikan","name":"👀┃快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -105,11 +88,7 @@
 
 //{"key":"云播影视","name":"🏖️┃云播┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"免嗅:1,分类url:http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}.html"},
 
-{"key":"csp_555","name":"5️⃣️┃555┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/json/555.json"},
-
-//{"key":"csp_appysv2_555电影","name":"5️⃣️┃555┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555ys1.com/api.php/app/"},
-
-
+{"key":"csp_555","name":"┃555┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/json/555.json"},
 
 //{"key":"csp_XBPQ新大米","name":"🌾┃大米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$20#连续剧$21#综艺$22#动漫$23#福利$35","分类url":"https://www.dmdy6.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/pjax/YES.html"}},
 
