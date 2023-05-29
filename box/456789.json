@@ -9,7 +9,18 @@
 {"key":"Czsapp","name":"🏭┃厂长┃影视","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
 
 {"key":"csp_Smdyy","name": "🐴┃神马┃影视","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
-	
+
+
+        {
+            "key": "csp_appys_如意4K",
+            "name": "如意┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cms.maoyingshi.cc/api.php/app/"
+        },
 	
 {"key":"Qtv","name":"🐧┃企鹅┃官源","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1},
 
@@ -80,17 +91,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://tvbox.cainisi.cf/json/XBPQ/乐猪TV.json"
-        },
-
-        {
-            "key": "csp_appys_如意4K",
-            "name": "如意┃影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://cms.maoyingshi.cc/api.php/app/"
         },
 
         {
