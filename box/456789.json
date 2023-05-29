@@ -322,6 +322,21 @@
       "filterable": 1
     }],
 
+	
+"lives":[{
+      "name": "live",
+      "url": "https://download.kstore.space/download/4253/box/box/zhibo-test.txt",
+      "type": 0,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+    },    
+    {"group":"redirect",
+    "channels":[{
+    "name":"redirect",
+    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvNDI1My9ib3gvYm94L3poaWJvLXRlc3QudHh0"]}]
+    }],
+
 "parses":[
         {
             "name": "解析聚合",
