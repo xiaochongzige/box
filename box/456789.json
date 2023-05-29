@@ -326,7 +326,7 @@
       "filterable": 1
     }],
 
-"parses":[	
+"parses":[
         {
             "name": "解析聚合",
             "type": 3,
@@ -335,8 +335,6 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-	
-{"name": "小新解析", "type": 1, "url": "http://xiaoxin.1080p.me/api/?key=368b2df76af1b58d897bbe31a00180c0&url="},
 	{
             "name": "精彩马上到来",
             "type": 1,
@@ -385,9 +383,6 @@
             "name": "777",
             "type": 1,
             "url": "https://jx.777jiexi.com/player/?url="
-	    "ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}   
         },
         {
             "name": "jsonplayer",
@@ -495,6 +490,8 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"解析聚合","type":3,"url":"Demo"},
+//{"name": "小新解析", "type": 1, "url": "http://xiaoxin.1080p.me/api/?key=368b2df76af1b58d897bbe31a00180c0&url="},
+{"name": "小X解析", "type": 1, "url": "https://www.8090.la/8090/?url="},
 
          {
 		"name": "bozrc",
