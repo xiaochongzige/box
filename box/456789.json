@@ -223,17 +223,6 @@
         },
 
         {
-            "key": "吼吼",
-            "name": "🛫吼吼┃海外",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/js/吼吼.js"
-        },
-
-        {
             "key": "PanSearch",
             "name": "Search┃云盘",
             "type": 3,
