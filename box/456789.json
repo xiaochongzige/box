@@ -71,17 +71,6 @@
         },
 
         {
-            "key": "饭团影院",
-            "name": "饭团┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/XBPQ/饭团影院.json"
-        },
-
-        {
             "key": "乐猪TV",
             "name": "乐猪┃影视",
             "type": 3,
