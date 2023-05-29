@@ -299,6 +299,7 @@
     }],
 
 "parses":[
+	{"name": "精彩马上到来", "type": 1, "url": "http://xiaoxin.1080p.me/api/?key=368b2df76af1b58d897bbe31a00180c0&url="},
         {
             "name": "解析聚合",
             "type": 3,
@@ -462,7 +463,6 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"解析聚合","type":3,"url":"Demo"},
-{"name": "精彩马上到来", "type": 1, "url": "http://xiaoxin.1080p.me/api/?key=368b2df76af1b58d897bbe31a00180c0&url="},
 
          {
 		"name": "bozrc",
